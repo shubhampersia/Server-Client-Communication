@@ -1,5 +1,5 @@
 # Server-Client-Communication
-This is a self developed basic working model of TCP and UDP server-client communication protocals.
+This project is based on Client Server Communication using TCP/IP protocol.
 
 ## How To Run
 Step 1. Download the source code to system in zip format or clone repo.
@@ -28,4 +28,4 @@ Step 4. run Client with name of server and server port using command
 ./Client localhost 2000
 ```
 ## Tech Stack Used
-All the functionalities are programmed in C language with the help of socket programming libraries.
+The programming used was C language where all the functions were implemented with the help of socket programming libraries.
